@@ -1,0 +1,8 @@
+Name: zorayah
+Balance: 43
+Owned Properties: ['Illinois Avenue', 'Pennsylvania Avenue', 'Mediterranean Avenue', 'States Avenue', 'B&O Railroad', 'Marvin Gardens', 'Short Line', 'Virginia Avenue', 'Water Works']
+
+Name: computer
+Balance: 111
+Owned Properties: ['Vermont Avenue', 'St. James Place', 'Indiana Avenue', 'North Carolina Avenue', 'St. Charles Place', 'Kentucky Avenue', 'Pennsylvania Railroad', 'Electric Company']
+
